@@ -163,10 +163,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Experience Chatify live at: [https://chatify-evbk.onrender.com/](https://chatify-evbk.onrender.com/)
 
-## 📞 Support
-
-For support, email support@chatify.com or join our Discord community.
-
 ## 🙏 Acknowledgments
 
 - Thanks to all contributors
